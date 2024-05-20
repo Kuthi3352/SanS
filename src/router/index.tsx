@@ -14,9 +14,6 @@ export const router: RouteObject[] = [
       {
         path: PATH.login,
       },
-      {
-        path: PATH.register,
-      },
     ],
   },
 ];
