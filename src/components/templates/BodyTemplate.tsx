@@ -69,7 +69,7 @@ const BodyTemplate = () => {
                 </p>
                 <span className="text-red-500 font-medium mr-10">79.000</span>
                 <span>
-                  <del>99000</del>
+                  <del>99.000</del>
                 </span>
               </div>
             </div>
@@ -97,7 +97,7 @@ const BodyTemplate = () => {
                 <p className="font-bold">Cọ bình sữa Silicon gấp gọn</p>
                 <span className="text-red-500 font-medium mr-10">108.000</span>
                 <span>
-                  <del>120000</del>
+                  <del>120.000</del>
                 </span>
               </div>
             </div>
@@ -107,22 +107,23 @@ const BodyTemplate = () => {
               <img src="/images/126.png" alt="" />
               <div className="ml-[12px] text-[10px]">
                 <p className="font-bold">Hộp chia sữa bột JIAY</p>
-                <span className="text-red-500 font-medium mr-10">64000</span>
+                <span className="text-red-500 font-medium mr-10">64.000</span>
                 <span>
-                  <del>70000</del>
+                  <del>70.000</del>
                 </span>
               </div>
             </div>
           </a>
         </div>
-        {/* <div className="flex">
+        <div className="flex">
           <a href="https://shopee.vn/H%E1%BB%99p-%C4%91%E1%BB%B1ng-s%E1%BB%AFa-b%E1%BB%99t-ti%E1%BB%87n-d%E1%BB%A5ng-cho-b%C3%A9-khi-di-ch%C6%A1i-ho%E1%BA%B7c-khi-%C4%91i-ra-ngo%C3%A0i-i.126105032.25180593711?xptdk=5e01b134-ba73-47ac-806b-08ec12d044ed">
             <div className="body-img">
               <img src="/images/139.png" alt="" />
               <div className="ml-[12px] text-[10px]">
                 <p className="font-bold">Yếm ăn silicon siêu mềm cao cấp</p>
-                <span className="text-red-500 font-medium mr-10">
-                  Đang cập nhật
+                <span className="text-red-500 font-medium mr-10">59.000</span>
+                <span>
+                  <del>79.000</del>
                 </span>
                 <span>
                   <del></del>
@@ -135,16 +136,14 @@ const BodyTemplate = () => {
               <img src="/images/140.png" alt="" />
               <div className="ml-[12px] text-[10px]">
                 <p className="font-bold">Yếm ăn silicon siêu mềm cao cấp</p>
-                <span className="text-red-500 font-medium mr-10">
-                  Đang cập nhật
-                </span>
+                <span className="text-red-500 font-medium mr-10">59.000</span>
                 <span>
-                  <del></del>
+                  <del>79.000</del>
                 </span>
               </div>
             </div>
           </a>
-        </div> */}
+        </div>
       </div>
     </div>
   );
