@@ -116,7 +116,7 @@ const BodyTemplate = () => {
           </a>
         </div>
         <div className="flex">
-          <a href="https://shopee.vn/H%E1%BB%99p-%C4%91%E1%BB%B1ng-s%E1%BB%AFa-b%E1%BB%99t-ti%E1%BB%87n-d%E1%BB%A5ng-cho-b%C3%A9-khi-di-ch%C6%A1i-ho%E1%BA%B7c-khi-%C4%91i-ra-ngo%C3%A0i-i.126105032.25180593711?xptdk=5e01b134-ba73-47ac-806b-08ec12d044ed">
+          <a href="https://shopee.vn/Y%E1%BA%BFm-%C4%83n-silicon-si%C3%AAu-m%E1%BB%81m-cao-c%E1%BA%A5p-i.126105032.25430018253?sp_atk=93ecee68-f873-4eeb-8e94-44705671e4b7&xptdk=93ecee68-f873-4eeb-8e94-44705671e4b7">
             <div className="body-img">
               <img src="/images/139.png" alt="" />
               <div className="ml-[12px] text-[10px]">
@@ -131,7 +131,7 @@ const BodyTemplate = () => {
               </div>
             </div>
           </a>
-          <a href="https://shopee.vn/H%E1%BB%99p-%C4%91%E1%BB%B1ng-s%E1%BB%AFa-b%E1%BB%99t-ti%E1%BB%87n-d%E1%BB%A5ng-cho-b%C3%A9-khi-di-ch%C6%A1i-ho%E1%BA%B7c-khi-%C4%91i-ra-ngo%C3%A0i-i.126105032.25180593711?xptdk=5e01b134-ba73-47ac-806b-08ec12d044ed">
+          <a href="https://shopee.vn/Y%E1%BA%BFm-%C4%83n-silicon-si%C3%AAu-m%E1%BB%81m-cao-c%E1%BA%A5p-i.126105032.25430018253?sp_atk=93ecee68-f873-4eeb-8e94-44705671e4b7&xptdk=93ecee68-f873-4eeb-8e94-44705671e4b7">
             <div>
               <img src="/images/140.png" alt="" />
               <div className="ml-[12px] text-[10px]">
